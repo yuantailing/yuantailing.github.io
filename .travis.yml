@@ -1,0 +1,19 @@
+language: python
+python:
+  - "3.6"
+sudo: false
+branches:
+  except:
+  - master
+script:
+  - cp -r www docs
+  - cp .travis.yml README.md docs/
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  on:
+    branch: src
+  local-dir: docs
+  target-branch: master
+  fqdn: yuantailing.com
