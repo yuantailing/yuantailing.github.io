@@ -1,0 +1,43 @@
+.metanav-container{background:#333}
+div#util-left{margin-left:0;float:left}
+div#util-right{margin-right:17px}
+div#meta-nav{margin:0 auto}
+#meta-nav{color:#fff !important;font-size:14px !important;padding:0 0 0 0 !important;text-align:right;font-family:'Formata-Regular';line-height:50px}
+#meta-nav a:link,#meta-nav a:visited,#meta-nav a:active{color:#fff !important;text-decoration:none;cursor:pointer}
+#meta-nav a:hover{text-decoration:underline}
+a#mn-forgot-pwd-link{color:#0272aa !important}
+div#header-links{width:159px;height:auto;padding:20px 0 0 0;overflow:hidden;font-size:95%}
+#header-utility{color:#0272aa;padding:20px 0 0 0;font-size:.85em}
+.ieee-home{background-image:url("https://www.ieee.org/ieee-mashup/images/icon-house.gif");background-repeat:no-repeat;padding-left:15px;padding-right:8px;background-position-y:1px}
+.mn-ieee-staff-pic{border:0;height:16px;width:16px}
+#meta-nav fieldset{font-size:100%;border:0;border-style:none;margin:0;padding:0}
+.mnieee-sign-in{background-image:url("https://www.ieee.org/ieee-mashup/images/icon_white_key.png");background-repeat:no-repeat;background-position:3px -3px;padding-left:24px;padding-right:8px}
+.display-none{display:none}
+.navbar-static-top{z-index:1000;border-width:0 0 1px}
+.navbar-inverse{background-color:#222;border-color:#090909;color:white !important}
+.navbar-inverse a{color:white !important}
+.navbar{position:relative;min-height:50px;border:1px solid transparent;margin-bottom:0}
+.metanav-container a,.metanav-container a:hover{color:#fff}
+.gs-no-results-result .gs-snippet,.gs-error-result .gs-snippet{background:0;border:0}
+.gs-webResult div.gs-visibleUrl-long{display:block}
+.gs-promotion div.gs-visibleUrl-long{display:none}
+.gs-promotion div.gs-visibleUrl-short{display:block}
+.gs-per-result-labels{display:none}
+.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-webResult.gs-result a.gs-title:link em,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#0663d7}
+.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-webResult.gs-result a.gs-title:hover em,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#0663d7}
+.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-webResult.gs-result a.gs-title:active em,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#0663d7}
+.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-webResult.gs-result a.gs-title:visited em,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b,.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited em{color:purple}
+.gsc-cursor-page{color:#0663d7}
+a.gsc-trailing-more-results:link{color:#0663d7}
+.gsc-refinementsArea{width:710px}
+.gsc-refinementHeader{width:160px;vertical-align:top;text-color:#0663d7 !important;color:#0663d7 !important;padding:2px 8px 4px 0}
+.gs-spelling{padding:2px 0 2px 0}
+.gsc-refinementLabel{padding:2px 0 6px 0}
+.gsc-results .gsc-cursor-box .gsc-cursor-page{background-color:#fff;border-color:#ccc;color:#0663d7}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page{cursor:default;color:purple;font-weight:bold;text-decoration:none}
+.cse .gsc-webResult.gsc-result.gsc-promotion,.gsc-webResult.gsc-result.gsc-promotion{border-color:#fff;background-color:#fff}
+.cse .gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link,.cse .gs-promotion a.gs-title:link *,.gs-promotion a.gs-title:link *,.cse .gs-promotion .gs-snippet a:link,.gs-promotion .gs-snippet a:link{color:#0663d7}
+.gs-promotion .gs-title em,.gs-result a.gs-title *{text-decoration:none;*text-decoration:underline}
+.gs-webResult.gs-result a.gs-title b{*FONT-SIZE:14px}
+.gsc-above-wrapper-area2{border-bottom:1px solid #e9e9e9;padding:5px 0}
+.gs-spelling a{color:#0663d7}
