@@ -8,10 +8,10 @@ div#meta-nav{margin:0 auto}
 a#mn-forgot-pwd-link{color:#0272aa !important}
 div#header-links{width:159px;height:auto;padding:20px 0 0 0;overflow:hidden;font-size:95%}
 #header-utility{color:#0272aa;padding:20px 0 0 0;font-size:.85em}
-.ieee-home{background-image:url("https://www.ieee.org/ieee-mashup/images/icon-house.gif");background-repeat:no-repeat;padding-left:15px;padding-right:8px;background-position-y:1px}
+.ieee-home{background-image:url("images/icon-house.gif");background-repeat:no-repeat;padding-left:15px;padding-right:8px;background-position-y:1px}
 .mn-ieee-staff-pic{border:0;height:16px;width:16px}
 #meta-nav fieldset{font-size:100%;border:0;border-style:none;margin:0;padding:0}
-.mnieee-sign-in{background-image:url("https://www.ieee.org/ieee-mashup/images/icon_white_key.png");background-repeat:no-repeat;background-position:3px -3px;padding-left:24px;padding-right:8px}
+.mnieee-sign-in{background-image:url("images/icon_white_key.png");background-repeat:no-repeat;background-position:3px -3px;padding-left:24px;padding-right:8px}
 .display-none{display:none}
 .navbar-static-top{z-index:1000;border-width:0 0 1px}
 .navbar-inverse{background-color:#222;border-color:#090909;color:white !important}
