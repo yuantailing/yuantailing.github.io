@@ -16,4 +16,3 @@ deploy:
     branch: src
   local-dir: docs
   target-branch: master
-  fqdn: yuantailing.com
